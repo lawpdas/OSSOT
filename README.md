@@ -1,6 +1,6 @@
-# Good Open Source Project for Visual Object Tracking
+# Open Source Project for Visual Object Tracking
 
-## What does a good open source project look like?
+**What does a good open source project look like?**
 
 **Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
 
