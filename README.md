@@ -107,6 +107,16 @@ Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.
 Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, Shuguang Cui.
 
 
+- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/forks/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/watchers/fredfung007/snlt?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/issues-closed/fredfung007/snlt?style=flat-square) <br />
+**[[SNLT]](https://github.com/fredfung007/snlt) Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers.** <br />
+Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.
+
+
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
 ![](https://img.shields.io/github/stars/VISION-SJTU/USOT?style=flat-square)
 ![](https://img.shields.io/github/forks/VISION-SJTU/USOT?style=flat-square)
@@ -137,6 +147,16 @@ Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li.
 Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang.
 
 
+- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/hqucv/siamrn?style=flat-square)
+![](https://img.shields.io/github/forks/hqucv/siamrn?style=flat-square)
+![](https://img.shields.io/github/watchers/hqucv/siamrn?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues/hqucv/siamrn?style=flat-square)
+![](https://img.shields.io/github/issues-closed/hqucv/siamrn?style=flat-square) <br />
+**[[siamrn]](https://github.com/hqucv/siamrn) Learning to Filter: Siamese Relation Network for Robust Tracking.** <br />
+Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang.
+
+
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
 ![](https://img.shields.io/github/stars/xiaozai/DeT?style=flat-square)
 ![](https://img.shields.io/github/forks/xiaozai/DeT?style=flat-square)
@@ -155,16 +175,6 @@ Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian 
 ![](https://img.shields.io/github/issues-closed/hqucv/dmtrack?style=flat-square) <br />
 **[[dmtrack]](https://github.com/hqucv/dmtrack) Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy.** <br />
 Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.
-
-
-- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
-![](https://img.shields.io/github/stars/hqucv/siamrn?style=flat-square)
-![](https://img.shields.io/github/forks/hqucv/siamrn?style=flat-square)
-![](https://img.shields.io/github/watchers/hqucv/siamrn?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues/hqucv/siamrn?style=flat-square)
-![](https://img.shields.io/github/issues-closed/hqucv/siamrn?style=flat-square) <br />
-**[[siamrn]](https://github.com/hqucv/siamrn) Learning to Filter: Siamese Relation Network for Robust Tracking.** <br />
-Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang.
 
 
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
@@ -197,16 +207,6 @@ Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qia
 Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao.
 
 
-
-
-- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
-![](https://img.shields.io/github/stars/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/forks/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/watchers/fredfung007/snlt?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/issues-closed/fredfung007/snlt?style=flat-square) <br />
-**[[SNLT]](https://github.com/fredfung007/snlt) Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers.** <br />
-Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.
 
 
 ![](https://img.shields.io/badge/2021-ECCV-yellow?style=flat-square)
