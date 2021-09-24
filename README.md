@@ -24,7 +24,7 @@ Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.
 ![](https://img.shields.io/github/issues/chenxin-dlut/TransT?style=flat-square)
 ![](https://img.shields.io/github/issues-closed/chenxin-dlut/TransT?style=flat-square) <br />
 **[[TransT]](https://github.com/chenxin-dlut/TransT) Transformer Tracking.** <br />
-Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu.
+Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu.
 
 
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
@@ -53,7 +53,7 @@ Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, Weiming Hu.
 ![](https://img.shields.io/github/watchers/594422814/TransformerTrack?style=flat-square&label=watchers)
 ![](https://img.shields.io/github/issues/594422814/TransformerTrack?style=flat-square)
 ![](https://img.shields.io/github/issues-closed/594422814/TransformerTrack?style=flat-square) <br />
-**[[TrDiMP and TrSiam]](https://github.com/594422814/TransformerTrack) Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking.** <br />
+**[[TrDiMP & TrSiam]](https://github.com/594422814/TransformerTrack) Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking.** <br />
 Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li.
 
 
@@ -78,16 +78,6 @@ Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang.
 
 
 - ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
-![](https://img.shields.io/github/stars/fzh0917/STMTrack0?style=flat-square)
-![](https://img.shields.io/github/forks/fzh0917/STMTrack0?style=flat-square)
-![](https://img.shields.io/github/watchers/fzh0917/STMTrack0?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues/fzh0917/STMTrack0?style=flat-square)
-![](https://img.shields.io/github/issues-closed/fzh0917/STMTrack0?style=flat-square) <br />
-**[[STMTrack]](https://github.com/fzh0917/STMTrack0) STMTrack: Template-free Visual Tracking with Space-time Memory Networks.** <br />
-Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.
-
-
-- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
 ![](https://img.shields.io/github/stars/ohhhyeahhh/SiamGAT?style=flat-square)
 ![](https://img.shields.io/github/forks/ohhhyeahhh/SiamGAT?style=flat-square)
 ![](https://img.shields.io/github/watchers/ohhhyeahhh/SiamGAT?style=flat-square&label=watchers)
@@ -105,16 +95,6 @@ Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.
 ![](https://img.shields.io/github/issues-closed/Ghostish/BAT?style=flat-square) <br />
 **[[BAT]](https://github.com/Ghostish/BAT) Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds.** <br />
 Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, Shuguang Cui.
-
-
-- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
-![](https://img.shields.io/github/stars/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/forks/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/watchers/fredfung007/snlt?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/issues-closed/fredfung007/snlt?style=flat-square) <br />
-**[[SNLT]](https://github.com/fredfung007/snlt) Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers.** <br />
-Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.
 
 
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
@@ -138,6 +118,16 @@ Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li.
 
 
 - ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/fzh0917/STMTrack0?style=flat-square)
+![](https://img.shields.io/github/forks/fzh0917/STMTrack0?style=flat-square)
+![](https://img.shields.io/github/watchers/fzh0917/STMTrack0?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues/fzh0917/STMTrack0?style=flat-square)
+![](https://img.shields.io/github/issues-closed/fzh0917/STMTrack0?style=flat-square) <br />
+**[[STMTrack]](https://github.com/fzh0917/STMTrack0) STMTrack: Template-free Visual Tracking with Space-time Memory Networks.** <br />
+Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.
+
+
+- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
 ![](https://img.shields.io/github/stars/VISION-SJTU/IoUattack?style=flat-square)
 ![](https://img.shields.io/github/forks/VISION-SJTU/IoUattack?style=flat-square)
 ![](https://img.shields.io/github/watchers/VISION-SJTU/IoUattack?style=flat-square&label=watchers)
@@ -155,6 +145,16 @@ Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang.
 ![](https://img.shields.io/github/issues-closed/hqucv/siamrn?style=flat-square) <br />
 **[[siamrn]](https://github.com/hqucv/siamrn) Learning to Filter: Siamese Relation Network for Robust Tracking.** <br />
 Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang.
+
+
+- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/forks/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/watchers/fredfung007/snlt?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/issues-closed/fredfung007/snlt?style=flat-square) <br />
+**[[SNLT]](https://github.com/fredfung007/snlt) Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers.** <br />
+Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.
 
 
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
@@ -209,4 +209,7 @@ Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zh
 
 
 
-![](https://img.shields.io/badge/2021-ECCV-yellow?style=flat-square)
+- ![](https://img.shields.io/badge/2021-ECCV-yellow?style=flat-square)
+
+## License
+This **Awesome-List** is released under the [GPL-3.0 License](https://github.com/lawpdas/Open-Source-VOT/blob/main/LICENSE).
