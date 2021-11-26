@@ -1,4 +1,4 @@
-# Open Source Project for Visual Object Tracking
+# Awesome Open Source Project for Visual Object Tracking
 
 **What does a good open source project look like?**
 
