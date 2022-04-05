@@ -4,6 +4,61 @@
 
 **Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
 
+
+## 2022
+
+
+- ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/visionml/pytracking?style=flat-square)
+![](https://img.shields.io/github/forks/visionml/pytracking?style=flat-square)
+![](https://img.shields.io/github/watchers/visionml/pytracking?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/visionml/pytracking?style=flat-square)
+![](https://img.shields.io/github/issues/visionml/pytracking?style=flat-square)<br />
+**[[ToMP]](https://github.com/visionml/pytracking) Transforming Model Prediction for Tracking.** <br />
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.
+
+
+- ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/MCG-NJU/MixFormer?style=flat-square)
+![](https://img.shields.io/github/forks/MCG-NJU/MixFormer?style=flat-square)
+![](https://img.shields.io/github/watchers/MCG-NJU/MixFormer?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/MCG-NJU/MixFormer?style=flat-square)
+![](https://img.shields.io/github/issues/MCG-NJU/MixFormer?style=flat-square)<br />
+**[[MixFormer]](https://github.com/MCG-NJU/MixFormer) MixFormer: End-to-End Tracking with Iterative Mixed Attention.** <br />
+Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.
+
+
+- ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
+![](https://img.shields.io/github/stars/Ghostish/Open3DSOT?style=flat-square)
+![](https://img.shields.io/github/forks/Ghostish/Open3DSOT?style=flat-square)
+![](https://img.shields.io/github/watchers/Ghostish/Open3DSOT?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/Ghostish/Open3DSOT?style=flat-square)
+![](https://img.shields.io/github/issues/Ghostish/Open3DSOT?style=flat-square)<br />
+**[[MM-Track]](https://github.com/Ghostish/Open3DSOT) Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds.** <br />
+Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li.
+
+
+- ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/Jee-King/CVPR2022_STNet?style=flat-square)
+![](https://img.shields.io/github/forks/Jee-King/CVPR2022_STNet?style=flat-square)
+![](https://img.shields.io/github/watchers/Jee-King/CVPR2022_STNet?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/Jee-King/CVPR2022_STNet?style=flat-square)
+![](https://img.shields.io/github/issues/Jee-King/CVPR2022_STNet?style=flat-square)<br />
+**[[STNet]](https://github.com/Jee-King/CVPR2022_STNet) Spiking Transformers for Event-based Single Object Tracking.** <br />
+Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang.
+
+
+- ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/FlorinShum/ULAST?style=flat-square)
+![](https://img.shields.io/github/forks/FlorinShum/ULAST?style=flat-square)
+![](https://img.shields.io/github/watchers/FlorinShum/ULAST?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/FlorinShum/ULAST?style=flat-square)
+![](https://img.shields.io/github/issues/FlorinShum/ULAST?style=flat-square)<br />
+**[[ULAST]](https://github.com/FlorinShum/ULAST) Unsupervised Learning of Accurate Siamese Tracking.** <br />
+Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang.
+
+
+
 ## 2021
 
 
@@ -13,7 +68,7 @@
 ![](https://img.shields.io/github/watchers/visionml/pytracking?style=flat-square&label=watchers)
 ![](https://img.shields.io/github/issues-closed/visionml/pytracking?style=flat-square)
 ![](https://img.shields.io/github/issues/visionml/pytracking?style=flat-square)<br />
-**[[pytracking]](https://github.com/visionml/pytracking) Learning Target Candidate Association to Keep Track of What Not to Track.** <br />
+**[[KeepTrack]](https://github.com/visionml/pytracking) Learning Target Candidate Association to Keep Track of What Not to Track.** <br />
 Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.
 
 
@@ -33,7 +88,7 @@ Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu.
 ![](https://img.shields.io/github/watchers/researchmm/Stark?style=flat-square&label=watchers)
 ![](https://img.shields.io/github/issues-closed/researchmm/Stark?style=flat-square)
 ![](https://img.shields.io/github/issues/researchmm/Stark?style=flat-square)<br />
-**[[STARK]](https://github.com/researchmm/Stark) Learning Spatio-Temporal Transformer for Visual Tracking.** <br />
+**[[Stark]](https://github.com/researchmm/Stark) Learning Spatio-Temporal Transformer for Visual Tracking.** <br />
 Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.
 
 
@@ -88,12 +143,12 @@ Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.
 
 
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
-![](https://img.shields.io/github/stars/Ghostish/BAT?style=flat-square)
-![](https://img.shields.io/github/forks/Ghostish/BAT?style=flat-square)
-![](https://img.shields.io/github/watchers/Ghostish/BAT?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues-closed/Ghostish/BAT?style=flat-square)
-![](https://img.shields.io/github/issues/Ghostish/BAT?style=flat-square)<br />
-**[[BAT]](https://github.com/Ghostish/BAT) Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds.** <br />
+![](https://img.shields.io/github/stars/Ghostish/Open3DSOT?style=flat-square)
+![](https://img.shields.io/github/forks/Ghostish/Open3DSOT?style=flat-square)
+![](https://img.shields.io/github/watchers/Ghostish/Open3DSOT?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/Ghostish/Open3DSOT?style=flat-square)
+![](https://img.shields.io/github/issues/Ghostish/Open3DSOT?style=flat-square)<br />
+**[[BAT]](https://github.com/Ghostish/Open3DSOT) Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds.** <br />
 Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, Shuguang Cui.
 
 
@@ -127,6 +182,16 @@ Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li.
 Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.
 
 
+- ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
+![](https://img.shields.io/github/stars/xiaozai/DeT?style=flat-square)
+![](https://img.shields.io/github/forks/xiaozai/DeT?style=flat-square)
+![](https://img.shields.io/github/watchers/xiaozai/DeT?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/xiaozai/DeT?style=flat-square)
+![](https://img.shields.io/github/issues/xiaozai/DeT?style=flat-square)<br />
+**[[DeT]](https://github.com/xiaozai/DeT) DepthTrack: Unveiling the Power of RGBD Tracking.** <br />
+Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen.
+
+
 - ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
 ![](https://img.shields.io/github/stars/VISION-SJTU/IoUattack?style=flat-square)
 ![](https://img.shields.io/github/forks/VISION-SJTU/IoUattack?style=flat-square)
@@ -143,28 +208,8 @@ Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang.
 ![](https://img.shields.io/github/watchers/hqucv/siamrn?style=flat-square&label=watchers)
 ![](https://img.shields.io/github/issues-closed/hqucv/siamrn?style=flat-square)
 ![](https://img.shields.io/github/issues/hqucv/siamrn?style=flat-square)<br />
-**[[siamrn]](https://github.com/hqucv/siamrn) Learning to Filter: Siamese Relation Network for Robust Tracking.** <br />
+**[[SiamRN]](https://github.com/hqucv/siamrn) Learning to Filter: Siamese Relation Network for Robust Tracking.** <br />
 Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang.
-
-
-- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
-![](https://img.shields.io/github/stars/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/forks/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/watchers/fredfung007/snlt?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues-closed/fredfung007/snlt?style=flat-square)
-![](https://img.shields.io/github/issues/fredfung007/snlt?style=flat-square)<br />
-**[[SNLT]](https://github.com/fredfung007/snlt) Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers.** <br />
-Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.
-
-
-- ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
-![](https://img.shields.io/github/stars/xiaozai/DeT?style=flat-square)
-![](https://img.shields.io/github/forks/xiaozai/DeT?style=flat-square)
-![](https://img.shields.io/github/watchers/xiaozai/DeT?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues-closed/xiaozai/DeT?style=flat-square)
-![](https://img.shields.io/github/issues/xiaozai/DeT?style=flat-square)<br />
-**[[DeT]](https://github.com/xiaozai/DeT) DepthTrack: Unveiling the Power of RGBD Tracking.** <br />
-Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen.
 
 
 - ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
@@ -173,7 +218,7 @@ Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian 
 ![](https://img.shields.io/github/watchers/hqucv/dmtrack?style=flat-square&label=watchers)
 ![](https://img.shields.io/github/issues-closed/hqucv/dmtrack?style=flat-square)
 ![](https://img.shields.io/github/issues/hqucv/dmtrack?style=flat-square)<br />
-**[[dmtrack]](https://github.com/hqucv/dmtrack) Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy.** <br />
+**[[DMTrack]](https://github.com/hqucv/dmtrack) Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy.** <br />
 Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.
 
 
@@ -188,16 +233,6 @@ Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He.
 
 
 - ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
-![](https://img.shields.io/github/stars/Daikenan/VASR?style=flat-square)
-![](https://img.shields.io/github/forks/Daikenan/VASR?style=flat-square)
-![](https://img.shields.io/github/watchers/Daikenan/VASR?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues-closed/Daikenan/VASR?style=flat-square)
-![](https://img.shields.io/github/issues/Daikenan/VASR?style=flat-square)<br />
-**[[VASR]](https://github.com/Daikenan/VASR) Video Annotation for Visual Tracking via Selection and Refinement.** <br />
-Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang.
-
-
-- ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
 ![](https://img.shields.io/github/stars/tsingqguo/ABA?style=flat-square)
 ![](https://img.shields.io/github/forks/tsingqguo/ABA?style=flat-square)
 ![](https://img.shields.io/github/watchers/tsingqguo/ABA?style=flat-square&label=watchers)
@@ -205,6 +240,26 @@ Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qia
 ![](https://img.shields.io/github/issues/tsingqguo/ABA?style=flat-square)<br />
 **[[ABA]](https://github.com/tsingqguo/ABA) Learning to Adversarially Blur Visual Object Tracking.** <br />
 Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao.
+
+
+- ![](https://img.shields.io/badge/2021-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/forks/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/watchers/fredfung007/snlt?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/fredfung007/snlt?style=flat-square)
+![](https://img.shields.io/github/issues/fredfung007/snlt?style=flat-square)<br />
+**[[SNLT]](https://github.com/fredfung007/snlt) Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers.** <br />
+Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.
+
+
+- ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
+![](https://img.shields.io/github/stars/Daikenan/VASR?style=flat-square)
+![](https://img.shields.io/github/forks/Daikenan/VASR?style=flat-square)
+![](https://img.shields.io/github/watchers/Daikenan/VASR?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/Daikenan/VASR?style=flat-square)
+![](https://img.shields.io/github/issues/Daikenan/VASR?style=flat-square)<br />
+**[[VASR]](https://github.com/Daikenan/VASR) Video Annotation for Visual Tracking via Selection and Refinement.** <br />
+Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang.
 
 
 ## License
