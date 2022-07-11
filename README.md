@@ -1,10 +1,11 @@
-# Awesome Open Source Project for Visual Object Tracking
+# OSVOT: Open Source Project for Visual Object Tracking
 
 **What does a good open source project look like?**
 
 **Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
 
 ---
+
 
 ## Benchmark Results
 
