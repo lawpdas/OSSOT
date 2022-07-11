@@ -4,6 +4,26 @@
 
 **Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
 
+---
+
+## Benchmark Results
+
+| Tracker              | LaSOT (AUC)   | TrackingNet (AUC) | GOT-10K (AO)  |
+|:-----------          |:-------------:|:-----------------:|:-------------:|
+| OSTrack(-384)        |  0.711   |   0.839  |   0.737  |     
+| MixFormer(-L)        |  0.701   |   0.839  |   --  |    
+| ToMP(-101)           |  0.685   |   0.815  |   --  |      
+| SBT(-large)          |  0.667   |    --    |   0.704  |       
+| CSWinTT	           |  0.662   |   0.819  |   0.694  |     
+| Stark(-ST101)        |  0.671   |   0.820  |   0.688  |
+| CSWinTT              |  0.662   |   0.819  |   0.694  |
+| TransT               |  0.649   |   0.814  |   0.671  | 
+| TrDimp               |  0.639   |   0.784  |   0.671  | 
+| Siam R-CNN           |  0.648   |   0.812  |   0.649  | 
+| DiMP                 |  0.568   |   0.740  |   0.611  | 
+| SiamRPN++            |  0.496   |   0.733  |   0.517  | 
+
+---
 
 ## 2022
 
@@ -28,7 +48,7 @@ Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel
 Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.
 
 
-- ![](https://img.shields.io/badge/2021-ICCV-green?style=flat-square)
+- ![](https://img.shields.io/badge/2022-ICCV-green?style=flat-square)
 ![](https://img.shields.io/github/stars/Ghostish/Open3DSOT?style=flat-square)
 ![](https://img.shields.io/github/forks/Ghostish/Open3DSOT?style=flat-square)
 ![](https://img.shields.io/github/watchers/Ghostish/Open3DSOT?style=flat-square&label=watchers)
@@ -37,6 +57,25 @@ Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.
 **[[MM-Track]](https://github.com/Ghostish/Open3DSOT) Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds.** <br />
 Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li.
 
+
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/botaoye/OSTrack?style=flat-square)
+![](https://img.shields.io/github/forks/botaoye/OSTrack?style=flat-square)
+![](https://img.shields.io/github/watchers/botaoye/OSTrack?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/botaoye/OSTrack?style=flat-square)
+![](https://img.shields.io/github/issues/botaoye/OSTrack?style=flat-square)<br />
+**[[OSTrack]](https://github.com/botaoye/OSTrack) Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework.** <br />
+Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.
+
+
+- ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
+![](https://img.shields.io/github/stars/SkyeSong38/CSWinTT?style=flat-square)
+![](https://img.shields.io/github/forks/SkyeSong38/CSWinTT?style=flat-square)
+![](https://img.shields.io/github/watchers/SkyeSong38/CSWinTT?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/SkyeSong38/CSWinTT?style=flat-square)
+![](https://img.shields.io/github/issues/SkyeSong38/CSWinTT?style=flat-square)<br />
+**[[CSWinTT]](https://github.com/SkyeSong38/CSWinTT) Transformer Tracking with Cyclic Shifting Window Attention.** <br />
+Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.
 
 - ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
 ![](https://img.shields.io/github/stars/Jee-King/CVPR2022_STNet?style=flat-square)
