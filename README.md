@@ -1,11 +1,6 @@
 # OSVOT: Open Source Project for Visual Object Tracking
 
 
-**Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
-
----
-
-
 ## Benchmark Results
 
 | Tracker              | LaSOT (AUC)   | TrackingNet (AUC) | GOT-10K (AO)  |
@@ -24,6 +19,8 @@
 | SiamRPN++            |  0.496   |   0.733  |   0.517  | 
 
 ---
+
+**Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
 
 ## 2022
 
