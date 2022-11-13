@@ -1,26 +1,36 @@
-# OSVOT: Open Source Project for Visual Object Tracking
+# Open Source Single Object Tracking
 
 
-## Benchmark Results
+## SOT Benchmark Results
 
-| Tracker              | LaSOT (AUC)   | TrackingNet (AUC) | GOT-10K (AO)  |
-|:-----------          |:-------------:|:-----------------:|:-------------:|
-| OSTrack(-384)        |  0.711   |   0.839  |   0.737  |     
-| MixFormer(-L)        |  0.701   |   0.839  |   --  |    
-| Unicorn              |  0.685   |   0.830  |   --  |      
-| ToMP(-101)           |  0.685   |   0.815  |   --  |      
-| Stark(-ST101)        |  0.671   |   0.820  |   0.688  |
-| SBT(-large)          |  0.667   |    --    |   0.704  |       
-| CSWinTT	           |  0.662   |   0.819  |   0.694  |     
-| TransT               |  0.649   |   0.814  |   0.671  | 
-| TrDimp               |  0.639   |   0.784  |   0.671  | 
-| Siam R-CNN           |  0.648   |   0.812  |   0.649  | 
-| DiMP                 |  0.568   |   0.740  |   0.611  | 
-| SiamRPN++            |  0.496   |   0.733  |   0.517  | 
+- **RGB SOT**
+
+| Tracker         | LaSOT (AUC) | TrackingNet (AUC) | GOT-10K (AO) |
+| :-------------- | :---------: | :---------------: | :----------: |
+| OSTrack(-384)   |    0.711    |       0.839       |    0.737     |
+| RTS             |    0.697    |       0.816       |      --      |
+| MixFormer(-22k) |    0.692    |       0.831       |    0.707     |
+| Unicorn         |    0.685    |       0.830       |      --      |
+| ToMP(-101)      |    0.685    |       0.815       |      --      |
+| Stark(-ST101)   |    0.671    |       0.820       |    0.688     |
+
+
+
+- **RGB-Depth SOT**
+
+- **Vision-Language SOT**
+
+
+- **3D Point Cloud SOT**
+...
 
 ---
 
 **Rating**: `stars`[+], `forks`[+], `watchers`[+], `closed-issue`[+], `open-issue`[-]
+
+ :fire: **The Most Popular Python Framework for SOT: [pytracking](https://github.com/visionml/pytracking)** :fire: 
+
+ :fire: **Python Framework for 3D SOT in LiDAR Point Clouds: [Open3DSOT](https://github.com/Ghostish/Open3DSOT)** :fire: 
 
 ## 2022
 
@@ -35,13 +45,24 @@
 Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.
 
 
+
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/visionml/pytracking?style=flat-square)
+![](https://img.shields.io/github/forks/visionml/pytracking?style=flat-square)
+![](https://img.shields.io/github/watchers/visionml/pytracking?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/visionml/pytracking?style=flat-square)
+![](https://img.shields.io/github/issues/visionml/pytracking?style=flat-square)<br />
+**[[RTS]](https://github.com/visionml/pytracking) Robust Visual Tracking by Segmentation.** <br />
+Matthieu Paul, Martin Danelljan, Christoph Mayer, and Luc Van Gool.
+
+
 - ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
 ![](https://img.shields.io/github/stars/MasterBin-IIAU/Unicorn?style=flat-square)
 ![](https://img.shields.io/github/forks/MasterBin-IIAU/Unicorn?style=flat-square)
 ![](https://img.shields.io/github/watchers/MasterBin-IIAU/Unicorn?style=flat-square&label=watchers)
 ![](https://img.shields.io/github/issues-closed/MasterBin-IIAU/Unicorn?style=flat-square)
 ![](https://img.shields.io/github/issues/MasterBin-IIAU/Unicorn?style=flat-square)<br />
-**[[Unicorn]](https://github.com/MasterBin-IIAU/Unicorn) Towards Grand Unification of Object Tracking.** <br />
+**[[Unicorn]](https://github.com/MasterBin-IIAU/Unicorn) Towards Grand Unification of Object Tracking.**  :fire: <br />
 Yan, Bin and Jiang, Yi and Sun, Peize and Wang, Dong and Yuan, Zehuan and Luo, Ping and Lu, Huchuan.
 
 
@@ -55,7 +76,7 @@ Yan, Bin and Jiang, Yi and Sun, Peize and Wang, Dong and Yuan, Zehuan and Luo, P
 Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.
 
 
-- ![](https://img.shields.io/badge/2022-ICCV-green?style=flat-square)
+- ![](https://img.shields.io/badge/2022-CVPR-green?style=flat-square)
 ![](https://img.shields.io/github/stars/Ghostish/Open3DSOT?style=flat-square)
 ![](https://img.shields.io/github/forks/Ghostish/Open3DSOT?style=flat-square)
 ![](https://img.shields.io/github/watchers/Ghostish/Open3DSOT?style=flat-square&label=watchers)
@@ -73,6 +94,29 @@ Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui,
 ![](https://img.shields.io/github/issues/botaoye/OSTrack?style=flat-square)<br />
 **[[OSTrack]](https://github.com/botaoye/OSTrack) Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework.** <br />
 Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.
+
+
+
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/Little-Podi/AiATrack?style=flat-square)
+![](https://img.shields.io/github/forks/Little-Podi/AiATrack?style=flat-square)
+![](https://img.shields.io/github/watchers/Little-Podi/AiATrack?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/Little-Podi/AiATrack?style=flat-square)
+![](https://img.shields.io/github/issues/Little-Podi/AiATrack?style=flat-square)<br />
+**[[AiATrack]](https://github.com/Little-Podi/AiATrack) AiATrack: Attention in Attention for Transformer Visual Tracking.** <br />
+Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan.
+
+
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/byminji/SLTtrack?style=flat-square)
+![](https://img.shields.io/github/forks/byminji/SLTtrack?style=flat-square)
+![](https://img.shields.io/github/watchers/byminji/SLTtrack?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/byminji/SLTtrack?style=flat-square)
+![](https://img.shields.io/github/issues/byminji/SLTtrack?style=flat-square)<br />
+**[[SLTtrack]](https://github.com/byminji/SLTtrack) Towards Sequence-Level Training for Visual Tracking.** <br />
+Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho.
+
+
 
 
 - ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
@@ -96,16 +140,34 @@ Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.
 Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang.
 
 
-- ![](https://img.shields.io/badge/2022-CVPR-red?style=flat-square)
-![](https://img.shields.io/github/stars/FlorinShum/ULAST?style=flat-square)
-![](https://img.shields.io/github/forks/FlorinShum/ULAST?style=flat-square)
-![](https://img.shields.io/github/watchers/FlorinShum/ULAST?style=flat-square&label=watchers)
-![](https://img.shields.io/github/issues-closed/FlorinShum/ULAST?style=flat-square)
-![](https://img.shields.io/github/issues/FlorinShum/ULAST?style=flat-square)<br />
-**[[ULAST]](https://github.com/FlorinShum/ULAST) Unsupervised Learning of Accurate Siamese Tracking.** <br />
-Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang.
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/LPXTT/SimTrack?style=flat-square)
+![](https://img.shields.io/github/forks/LPXTT/SimTrack?style=flat-square)
+![](https://img.shields.io/github/watchers/LPXTT/SimTrack?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/LPXTT/SimTrack?style=flat-square)
+![](https://img.shields.io/github/issues/LPXTT/SimTrack?style=flat-square)<br />
+**[[SimTrack]](https://github.com/LPXTT/SimTrack) Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking.** <br />
+Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.
 
 
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/fpthink/STNet?style=flat-square)
+![](https://img.shields.io/github/forks/fpthink/STNetT?style=flat-square)
+![](https://img.shields.io/github/watchers/fpthink/STNet?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/fpthink/STNet?style=flat-square)
+![](https://img.shields.io/github/issues/fpthink/STNet?style=flat-square)<br />
+**[[STNet]](https://github.com/fpthink/STNet) 3D Siamese Transformer Network for Single Object Tracking on Point Clouds.** <br />
+Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, Jian Yang.
+
+
+- ![](https://img.shields.io/badge/2022-ECCV-yellow?style=flat-square)
+![](https://img.shields.io/github/stars/jasongzy/CMT?style=flat-square)
+![](https://img.shields.io/github/forks/jasongzy/CMTT?style=flat-square)
+![](https://img.shields.io/github/watchers/jasongzy/CMT?style=flat-square&label=watchers)
+![](https://img.shields.io/github/issues-closed/jasongzy/CMT?style=flat-square)
+![](https://img.shields.io/github/issues/jasongzy/CMT?style=flat-square)<br />
+**[[CMT]](https://github.com/jasongzy/CMT) CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds.** <br />
+Guo, Zhiyang and Mao, Yunyao and Zhou, Wengang and Wang, Min and Li, Houqiang.
 
 ## 2021
 
